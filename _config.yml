@@ -1,5 +1,4 @@
-remote_theme: botmedia/minimal
-
+theme: jekyll-theme-minimal 
 title: "Ďakujeme dobrovoľníkom"
 description: "Zoznam dobrovoľníkov ktorí pomáhali pri tvorbe covid.chat"
 
