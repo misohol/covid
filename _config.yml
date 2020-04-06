@@ -1,7 +1,7 @@
 remote_theme: botmedia/minimal
 
 title: "Ďakujeme dobrovoľníkom"
-description: "Zoznam dobrovoľníkov ktorí pomáhali pri tvore covid.chat"
+description: "Zoznam dobrovoľníkov ktorí pomáhali pri tvorbe covid.chat"
 
 github:
   is_project_page: false
