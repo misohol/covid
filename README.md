@@ -1,5 +1,3 @@
-![](covid.chat)
-
 ### Ďakujeme všetkým dobrovoľníčkam a dobrovoľníkom za pomoc s rozvojom projektu covid.chat
 
 - Alžbeta Smoleňáková
