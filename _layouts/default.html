@@ -13,13 +13,12 @@
   </head>
   <body>
     <div class="wrapper">
-      <section>
       {% if site.logo %}
         <img src="{{site.logo | relative_url}}" alt="Logo" />
       {% endif %}
 
+      <section>
       {{ content }}
-
       </section>
       <footer>
         {% if site.github.is_project_page %}
