@@ -2,10 +2,12 @@
 
 - Alžbeta Smoleňáková
 - Dušan Samo Dobrík
+- Dorota Swietyová
 - Jana Rejtová
 - Jana Sedláková
 - Katarína Tökölyová
 - Lenka Hatter
+- Lenka Klobúčniková
 - Lorant Barath
 - Lucia Erneková
 - Lucia Klačanová
